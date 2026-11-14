@@ -280,8 +280,3 @@ http://localhost
 **DevOps & GitOps**
 
 CAgent_47
-Mohammad Shayegan
-
----
-
-Special thanks to [NadinSoft](https://nadinsoft.com) for providing this learning and technical assessment opportunity.
